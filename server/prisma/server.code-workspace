@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../dale"
+		}
+	],
+	"settings": {
+		"prisma.fileWatcher": false
+	}
+}
