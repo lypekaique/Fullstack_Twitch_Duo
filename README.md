@@ -68,6 +68,3 @@ The project was totally developed according to the instructions given, no aditio
 
 <a href='#top'>🔼 Back to top</a>
 
----
-
-Developed with 🧡 by [@sucodelarangela](https://angelacaldas.vercel.app)
